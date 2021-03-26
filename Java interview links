@@ -1,7 +1,19 @@
 Core java
 https://www.google.com/amp/s/www.interviewbit.com/java-interview-questions/amp/
 https://www.softwaretestinghelp.com/core-java-interview-questions/
+
 ----- Thread ----
+Best tutorial for threads
+http://tutorials.jenkov.com/java-util-concurrent/index.html
+
 https://www.baeldung.com/java-concurrency-interview-questions
 https://www.educative.io/blog/top-five-concurrency-interview-questions-for-software-engineers
 https://www.indeed.com/career-advice/interviewing/java-multithreading-interview-questions
+
+
+
+
+-----Stream------
+https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
+
+https://www.google.com/amp/s/stackify.com/streams-guide-java-8/amp/
